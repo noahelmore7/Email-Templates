@@ -1,0 +1,868 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html
+	xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="viewport" content="width=device-width">
+		<title></title>
+		<style>@media only screen{html{min-height:100%;background:#f3f3f3}}@media only screen and (max-width:596px){table.body img{width:auto;height:auto}table.body center{min-width:0!important}table.body .container{width:95%!important}table.body .columns{height:auto!important;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box;padding-left:16px!important;padding-right:16px!important}table.body .columns .columns{padding-left:0!important;padding-right:0!important}th.small-3{display:inline-block!important;width:25%!important}th.small-4{display:inline-block!important;width:33.33333%!important}th.small-6{display:inline-block!important;width:50%!important}th.small-8{display:inline-block!important;width:66.66667%!important}th.small-9{display:inline-block!important;width:75%!important}th.small-12{display:inline-block!important;width:100%!important}.columns th.small-12{display:block!important;width:100%!important}}@media only screen and (max-width:596px){.last-row th.columns.logo .mobile-only{display:block!important}.last-row th.columns.logo .desktop-only{display:none}}@media only screen and (max-width:596px){table.body .container table.ticket th.ticket-logo{border-radius:15px 15px 0 0!important}}@media only screen and (max-width:596px){table.body .container table.ticket table.not-ticket-logo{border-radius:0 0 15px 15px!important;border-width:0 1px 1px 1px!important}}@media only screen and (max-width:596px){table.body .container table.ticket th.qr-code{border-left:0 none!important;border-top:1px dashed #C8C8C8}table.body .container table.ticket th.qr-code img{width:100%!important}}@media only screen and (max-width:596px){.membership-card .qr-code img{float:none;width:100%!important}}</style>
+	</head>
+	<body style="-moz-box-sizing:border-box;-ms-text-size-adjust:100%;-webkit-box-sizing:border-box;-webkit-text-size-adjust:100%;Margin:0;box-sizing:border-box;color:#2b292b;font-family:Forza,'Forza A','Forza B',Helvetica,sans-serif;font-size:14px;font-weight:400;line-height:24px;margin:0;min-width:100%;padding:0;text-align:left;width:100%!important">
+		<span class="preheader" style="color:#f3f3f3;display:none!important;font-size:1px;line-height:1px;max-height:0;max-width:0;mso-hide:all!important;opacity:0;overflow:hidden;visibility:hidden"></span>
+		<table class="body" style="Margin:0;background:#fff;border-collapse:collapse;border-spacing:0;color:#2b292b;font-family:Forza,'Forza A','Forza B',Helvetica,sans-serif;font-size:14px;font-weight:400;height:100%;line-height:24px;margin:0;min-width:300px;padding:0;text-align:left;vertical-align:top;width:100%">
+			<tr style="padding:0;text-align:left;vertical-align:top">
+				<td class="center" align="center" valign="top" style="-moz-hyphens:auto;-webkit-hyphens:auto;Margin:0;border-collapse:collapse!important;color:#2b292b;font-family:Forza,'Forza A','Forza B',Helvetica,sans-serif;font-size:14px;font-weight:400;hyphens:auto;line-height:24px;margin:0;padding:0;text-align:left;vertical-align:top;word-wrap:break-word">
+					<center data-parsed style="min-width:580px;width:100%">
+						<table class="spacer outer-spacer float-center" style="Margin:0 auto;border-collapse:collapse;border-spacing:0;float:none;margin:0 auto;padding:0;text-align:center;vertical-align:top;width:100%">
+							<tbody>
+								<tr style="padding:0;text-align:left;vertical-align:top">
+									<td height="32px" style="-moz-hyphens:auto;-webkit-hyphens:auto;Margin:0;border-collapse:collapse!important;color:#2b292b;font-family:Forza,'Forza A','Forza B',Helvetica,sans-serif;font-size:32px;font-weight:400;hyphens:auto;line-height:32px;margin:0;mso-line-height-rule:exactly;padding:0;text-align:left;vertical-align:top;word-wrap:break-word">&#xA0;</td>
+								</tr>
+							</tbody>
+						</table>
+						<table align="center" class="container container" style="Margin:0 auto;background:#fefefe;border-collapse:collapse;border-spacing:0;margin:0 auto;padding:0;text-align:inherit;vertical-align:top;width:580px">
+							<tbody>
+								<tr style="padding:0;text-align:left;vertical-align:top">
+									<td style="-moz-hyphens:auto;-webkit-hyphens:auto;Margin:0;border-collapse:collapse!important;color:#2b292b;font-family:Forza,'Forza A','Forza B',Helvetica,sans-serif;font-size:14px;font-weight:400;hyphens:auto;line-height:24px;margin:0;padding:0;text-align:left;vertical-align:top;word-wrap:break-word">
+										<table class="row first-row" style="border-collapse:collapse;border-spacing:0;display:table;padding:0;position:relative;text-align:left;vertical-align:top;width:100%">
+											<tbody>
+												<tr style="padding:0;text-align:left;vertical-align:top">
+													<th class="small-12 large-12 columns first last" style="Margin:0 auto;color:#2b292b;font-family:Forza,'Forza A','Forza B',Helvetica,sans-serif;font-size:14px;font-weight:400;line-height:24px;margin:0 auto;padding:0;padding-bottom:16px;padding-left:16px;padding-right:16px;text-align:left;width:564px">
+														<table style="border-collapse:collapse;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%">
+															<tr style="padding:0;text-align:left;vertical-align:top">
+																<th style="Margin:0;color:#2b292b;font-family:Forza,'Forza A','Forza B',Helvetica,sans-serif;font-size:14px;font-weight:400;line-height:24px;margin:0;padding:0;text-align:left">
+																	<center class="logo-wrapper" data-parsed style="margin:40px 0;min-width:0!important;width:100%">
+																		<img alt="Guggenheim" class="logo float-center" width="600" style="-ms-interpolation-mode:bicubic;Margin:0 auto;clear:both;display:block;float:none;margin:0 auto;max-width:100%;outline:0;text-align:center;text-decoration:none;width:600px" src="https://api.ticketure.com/v1/assets/guggenheim/2ba153aa-d377-e2bb-c4c4-c7242582fa0f?sizex=450&shrinkonly" align="center">
+																	</center>
+																	<hr style="border-color:#2b292b;border-style:solid;border-width:1px 0 0;height;0;margin:0">
+																	{{#ifEqual identity_meta.card_only 'yes'}}
+																		<!--class="thank-you"-->
+																		<table class="paragraphs" style="border-spacing:0;text-align:left;padding-top:20px;padding-right:20px;width:100%;">
+																			<tr>
+																				<td style="padding:0;">
+																					<h2 style="color:#2b292b;font-size:20px;">Your membership</h2>
+																					<p style="color:#2b292b;font-size:20px;">
+																						<strong>Member ID</strong>: {{ membership.scan_code }}
+																					</p>
+																					<p style="color:#2b292b;font-size:20px;">
+																					{{#with event_templates.[0].event_sessions.[0].tickets.[0]}} 
+																					<strong>Membership level</strong>: {{ ticket_group_meta.member_display_level }} &nbsp;
+																					<br>
+																					<br>
+																					<strong>Expires</strong>: {{ formatDateTime valid_to_raw "01/02/2006" }}
+																					<table class="card-holder" width="100%" style="border-spacing:0;width:100%;">
+																						<tr>
+																							<td style="padding:0;">
+																							{{#each event_templates.[0].event_sessions.[0].tickets}}
+																								{{#ifEqual "Primary" ticket_type_name}}
+																									<table class="column" style="border-spacing:0;width:100%;max-width:220px;display:inline-block;vertical-align:top;padding-right:20px;">
+																										<tr>
+																											<td style="padding:0;">
+																												<table class="cards" style="border-spacing:0;border-radius:1em 1em 1em 1em;border-style:solid;border-width:1px;max-width:220px;width:100%;display:inline-block;">
+																													<tr>
+																														<td class="card-img" align="center" style="padding:0;border-radius:1em 1em 0 0;width:100%;text-align:left;color:#ffffff;background:#2b292b;max-width:220px !important;">
+																															<img style="border:0;border-collapse:separate; border-radius:1em 1em 0 0; width: 100%; max-width: 300px;" src="https://api.ticketure.com/v1/assets/guggenheim/693a1361-a282-b181-9444-e66804e1779a" alt="Guggenheim Member Card"/>
+																															<h4 style="font-size:18px;color:#ffffff;padding-left:10px;line-height:1.3em;font-weight:bold;">{{ ticket_holder_name }}
+																																<br>
+																																 Expires &nbsp;&nbsp;
+																																 {{ formatDateTime valid_to_raw "01/02/2006" }}
+																															</h4>
+																														</td>
+																													</tr>
+																													<tr>
+																														<th class="two-columns" style="width:45%;display:inline-block;">
+																															<table class="QR-Code-Image" style="border-spacing:0;padding-left:8px;padding-right:8px;max-width:100px;">
+																																<tr>
+																																	<td style="padding:0;">
+																																		<img src="https://{{portal.domain}}/api/membership/{{ ../membership.id }}/qrcode?size=72" alt="" width="72" height="72" style="border:0;border:0;margin-right:16px!important; width:auto;"/>
+																																	</td>
+																																</tr>
+																															</table>
+																														</th>
+																														<th class="two-columns" style="width:45%;display:inline-block;">
+																															<table class="member-number" style="border-spacing:0;text-align:left;">
+																																<tr>
+																																	<td style="padding:0;">
+																																		<h5 style="color:#2b292b;font-size:18px;font-weight:normal;">
+																																			<strong>{{ ticket_group_meta.member_display_level }}</strong>
+																																			<br>
+																																			ID: {{ ../membership.scan_code }}
+																																			<br>
+																																			<br>
+																																			{{#each event_templates.[0].event_sessions}}
+																																				{{this.count}} {{ticket_type_name}}
+																																				<br>
+																																			{{/each}}
+																																		</h5>
+																																	</td>
+																																</tr>
+																															</table>
+																														</th>
+																													</tr>
+																												</table>
+																											<!--class="cards" -->
+																											</td>
+																										</tr>
+																										<tr style="text-align:left;vertical-align:top">
+																											<td style="padding:0;padding-top: 15px;">
+																												<a class="add-to-apple-pay" href="https://api.ticketure.com/v1/ticket/{{ticket_id}}/pkpass" style="text-decoration:none;font-weight:bold;color:#808285;">
+																													<img src="https://api.ticketure.com/v1/assets/guggenheim/a5753887-7d1a-ec3b-c570-0e48a9a8f7d3?sizey=45" alt="Add to Apple Wallet" target="_system" style="border:0;">
+																												</a> &nbsp; 
+																												<a class="add-to-google-pay" href="https://api.ticketure.com/v1/ticket/{{ticket_id}}/gwpass" style="text-decoration:none;font-weight:bold;color:#808285;">
+																													<img src="https://api.ticketure.com/v1/assets/guggenheim/83521632-a676-e3ec-086a-a48f065025a2?sizey=45" alt="Add to Google Pay" style="border:0;">
+																												</a>
+																											</td>
+																										</tr>
+																									</table>
+																									<!--class="column" -->
+																								{{/ifEqual}}
+																								{{#ifEqual "Secondary" ticket_type_name}}				  
+																									<table class="column" style="border-spacing:0;width:100%;max-width:220px;display:inline-block;vertical-align:top;padding-right:20px;">
+																										<tr>
+																											<td style="padding:0;">
+																												<table class="cards" style="border-spacing:0;border-radius:1em 1em 1em 1em;border-style:solid;border-width:1px;max-width:220px;width:100%;display:inline-block;">
+																													<tr>
+																														<td class="card-img" align="center" style="padding:0;border-radius:1em 1em 0 0;width:100%;text-align:left;color:#ffffff;background:#2b292b;max-width:220px !important;">
+																															<img style="border:0;border-collapse:separate; border-radius:1em 1em 0 0; width: 100%; max-width: 220px;" src="https://api.ticketure.com/v1/assets/guggenheim/693a1361-a282-b181-9444-e66804e1779a" alt="Guggenheim Member Card"/>
+																															<h4 style="font-size:18px;color:#ffffff;padding-left:10px;line-height:1.3em;font-weight:bold;">{{ ticket_holder_name }}
+																																<br>
+																																Expires &nbsp;&nbsp;
+																																{{ formatDateTime valid_to_raw "01/02/2006" }}
+																															</h4>
+																														</td>
+																													</tr>
+																													<tr>
+																														<th class="two-columns" style="width:45%;display:inline-block;">
+																															<table class="QR-Code-Image" style="border-spacing:0;padding-left:8px;padding-right:8px;max-width:100px;">
+																																<tr>
+																																	<td style="padding:0;">
+																																		<img src="https://{{portal.domain}}/api/membership/{{ ../membership.id }}/qrcode?size=72" alt="" width="72" height="72" style="border:0;border:0;margin-right:16px!important; width:auto;"/>
+																																	</td>
+																																</tr>
+																															</table>
+																														</th>
+																														<th class="two-columns" style="width:45%;display:inline-block;">
+																															<table class="member-number" style="border-spacing:0;text-align:left;">
+																																<tr>
+																																	<td style="padding:0;">
+																																		<h5 style="color:#2b292b;font-size:18px;font-weight:normal;">
+																																			<strong>{{ ticket_group_meta.member_display_level }}</strong>
+																																			<br>
+																																			ID: {{ ../membership.scan_code }}
+																																			<br>
+																																			<br>
+																																			{{#each event_templates.[0].event_sessions}}
+																																				{{this.count}} {{ticket_type_name}}
+																																				<br>
+																																			{{/each}}
+																																		</h5>
+																																	</td>
+																																</tr>
+																															</table>
+																														</th>
+																													</tr>
+																												</table>
+																											</td>
+																										</tr>
+																										<tr style="text-align:left;vertical-align:top">
+																											<td style="padding:0;padding-top: 15px;">
+																												<a class="add-to-apple-pay" href="https://api.ticketure.com/v1/ticket/{{ticket_id}}/pkpass" style="text-decoration:none;font-weight:bold;color:#808285;">
+																													<img src="https://api.ticketure.com/v1/assets/guggenheim/a5753887-7d1a-ec3b-c570-0e48a9a8f7d3?sizey=45" alt="Add to Apple Wallet" target="_system" style="border:0;">
+																												</a> &nbsp; 
+																												<a class="add-to-google-pay" href="https://api.ticketure.com/v1/ticket/{{ticket_id}}/gwpass" style="text-decoration:none;font-weight:bold;color:#808285;">
+																													<img src="https://api.ticketure.com/v1/assets/guggenheim/83521632-a676-e3ec-086a-a48f065025a2?sizey=45" alt="Add to Google Pay" style="border:0;">
+																												</a>
+																											</td>
+																										</tr>
+																									</table>
+																								{{/ifEqual}}							
+																							{{/each}}
+																							</td>
+																						</tr>
+																					</table>
+																				{{/with}}
+																				</td>
+																			</tr>
+																		</table>
+																	{{else}}
+																		<table class="paragraphs" style="border-spacing:0;text-align:left;padding-top:20px;padding-right:20px;width:100%;">
+																			<tr>
+																				<td style="padding:0;">
+																					{{#if intro}}
+																						<p style="color:#2b292b;font-size:15px;">{{ intro }}</p>
+																					{{/if }}
+																					{{#if membership.prior_expiry_raw }}
+																						<h2 style="color:#2b292b;font-size:20px;">Dear {{ identity_first_name }},</h2>
+																						{{#ifEqual event_templates.[0].event_sessions.[0].tickets.[0].ticket_group_meta.Level 'YCC'}}
+																							<p style="color:#2b292b;font-weight:400;font-size:20px;">Thank you for renewing your membership to the Guggenheim Museum as a {{event_templates.[0].event_sessions.[0].tickets.[0].ticket_group_meta.member_display_level}}! Your generous contribution to this unique group enables us to expand our world-renowned collection by supporting emerging contemporary artists and present dynamic exhibitions and education programs to our diverse audiences.
+																							<p style="color:#2b292b;font-weight:400;font-size:20px;">I hope you’ll join us at the museum soon to experience our newest exhibitions in person, including 
+																							<em>Etel Adnan: Light’s New Measure</em>, on view through January 2022; 
+																							<em>Vasily Kandinsky: Around the Circle</em>, on view through September 2022; and 
+																							<em>Gillian Wearing: Wearing Masks</em>, on view through November 8; and much more.</p>
+																							{{#ifEqual membership.auto_renew_on "true"}} 
+																								<p style="color:#2b292b;font-size:20px;">Thank you for renewing through our automatic renewal program, your credit card will be charged annually on your expiration date. If you have any questions or wish to leave the program, please email us.</p>
+																							{{/ifEqual}}
+																							<p style="color:#2b292b;font-size:20px;">Your digital membership card(s) is included in this confirmation email. If you have any questions about your membership, please email 
+																								<a href="mailto:ycc@guggenheim.org">ycc@guggenheim.org</a>. 
+																							</p>
+																							<p style="color:#2b292b;font-size:20px;">Thank you again for your continued support of the YCC! We look forward to seeing you at the museum! </p>
+																							<p style="color:#2b292b;font-size:20px;">Sincerely,</p>
+																							<p style="color:#2b292b;font-size:20px;">Mathew James Talaugon 
+																							<br>Assistant Director, Individual Giving
+																							</p>
+																						{{else}}
+																							{{#ifEqual event_templates.[0].event_sessions.[0].tickets.[0].ticket_group_meta.Level 'Patron'}}
+																								<p style="color:#2b292b;font-weight:400;font-size:20px;">Thank you for renewing your membership to the Guggenheim Museum as a(n) {{event_templates.[0].event_sessions.[0].tickets.[0].ticket_group_meta.member_display_level}}! Through your vital support, we are able to safeguard our world-renowned collection of modern and contemporary art, as well as present dynamic exhibitions and education programs that serve diverse audiences in New York City and around the globe—both in person and across the digital landscape. 
+																								<p style="color:#2b292b;font-weight:400;font-size:20px;">I hope you’ll join us at the museum soon to experience our newest exhibitions in person, including 
+																								<em>Etel Adnan: Light’s New Measure</em>, on view through January 2022; 
+																								<em>Vasily Kandinsky: Around the Circle</em>, on view through September 2022; and 
+																								<em>Gillian Wearing: Wearing Masks</em>, on view through November 8; and much more.</p>
+																								</p>
+																								{{#ifEqual membership.auto_renew_on "true"}} 
+																									<p style="color:#2b292b;font-size:20px;">Thank you for renewing through our automatic renewal program, your credit card will be charged annually on your expiration date. If you have any questions or wish to leave the program, please email us.</p>
+																								{{/ifEqual}}
+																								<p style="color:#2b292b;font-size:20px;">Your digital membership card(s) is included in this confirmation email. If you have any questions about your membership, please email 
+																								<a href="mailto:patronscircle@guggenheim.org">patronscircle@guggenheim.org</a>. 
+																								</p>
+																								<p style="color:#2b292b;font-size:20px;">Thank you again for your generous gift. We look forward to seeing you at the museum! </p>
+																								<p style="color:#2b292b;font-size:20px;">Sincerely,</p>
+																								<p style="color:#2b292b;font-size:20px;">Mathew James Talaugon 
+																								<br>Assistant Director, Individual Giving
+																								</p>
+																							{{else}}
+																								{{#ifEqual event_templates.[0].event_sessions.[0].tickets.[0].ticket_group_meta.Level 'Affinity'}}
+																									<p style="color:#2b292b;font-weight:400;font-size:20px;">On behalf of all of us at the Solomon R. Guggenheim Museum, thank you so much for your generous contribution to the {{event_templates.[0].event_sessions.[0].tickets.[0].ticket_group_meta.member_display_level}}. Through your vital support, we are able to safeguard our world-renowned collection of modern and contemporary art, as well as present dynamic exhibitions and education programs that serve diverse audiences in New York City and around the globe—both in person and across the digital landscape.</p>
+																									<p style="color:#2b292b;font-weight:400;font-size:20px;">I hope you’ll join us at the museum soon to experience our newest exhibitions in person, including 
+																									<em>Etel Adnan: Light’s New Measure</em>, on view through January 2022; 
+																									<em>Vasily Kandinsky: Around the Circle</em>, on view through September 2022; and 
+																									<em>Gillian Wearing: Wearing Masks</em>, on view through November 8; and much more. It would be a pleasure to welcome you in for a private visit at your convenience.</p>
+																									</p>
+																									<p style="color:#2b292b;font-weight:400;font-size:20px;">Your digital membership cards are included in this confirmation email, and below are the details of your gift. If you have any questions, please do not hesitate to reach out to us directly at 
+																									<a href="mailto:affinitygroups@guggenheim.org">AffinityGroups@Guggenheim.org</a>.
+																									</p>
+																									<p style="color:#2b292b;font-weight:400;font-size:20px;">Thank you again for your dedication to the Guggenheim.</p>
+																									<p style="color:#2b292b;font-size:20px;">Sincerely,</p>
+																									<p style="color:#2b292b;font-size:20px;">Halsey Keller,  
+																									<br>Director, Individual Giving<br>Solomon R. Guggenheim Museum
+																									</p>
+																								{{else}}			           
+																									<p style="color:#2b292b;font-size:20px;">Thank you for renewing your membership to the Guggenheim Museum as a(n) {{event_templates.[0].event_sessions.[0].tickets.[0].ticket_group_meta.member_display_level}}!</p>
+																									<p style="color:#2b292b;font-size:20px;">Your continued generosity provides you with free admission and discounted guest admission, a 10% discount in our store and restaurants, savings on tickets to all programs, and invitations to exclusive member events.</p>
+																									{{#ifEqual membership.auto_renew_on "true"}} 
+																										<p style="color:#2b292b;font-size:20px;">Thank you for renewing through our automatic renewal program, your credit card will be charged annually on your expiration date. If you have any questions or wish to leave the program, please email us.</p>
+																									{{/ifEqual}}
+																									<p style="color:#2b292b;font-size:20px;">Your digital membership card(s) is included in this confirmation email. If you have any questions about your membership, please email 
+																									<a href="mailto:membership@guggenheim.org">membership@guggenheim.org</a>. 
+																									</p>
+																									<p style="color:#2b292b;font-size:20px;">Thank you again for your kind gift. We look forward to seeing you at the museum! </p>
+																									<p style="color:#2b292b;font-size:20px;">Sincerely,</p>
+																									<p style="color:#2b292b;font-size:20px;">Membership Team</p>
+																								{{/ifEqual}}							
+																							{{/ifEqual}}							
+																						{{/ifEqual}}							
+																					{{ else }}
+																						<h2 style="color:#2b292b;font-weight:400;font-size:20px;">Dear {{ identity_first_name }},</h2>
+																						{{#ifEqual event_templates.[0].event_sessions.[0].tickets.[0].ticket_group_meta.Level 'Library'}}
+																							<p style="color:#2b292b;font-weight:400;font-size:20px;">Thank you for supporting the Guggenheim Museum as a {{event_templates.[0].event_sessions.[0].tickets.[0].ticket_group_meta.member_display_level}}!
+																							<br>
+																							<p style="color:#2b292b;font-weight:400;font-size:20px;">Your {{event_templates.[0].event_sessions.[0].tickets.[0].ticket_group_meta.member_display_level}} membership provides your patrons with free admission, discounted guest admission, and a 10% discount in our store and restaurants.</p>
+																							<p style="color:#2b292b;font-size:20px;">You will receive your membership cards in the mail within 10–15 business days. Please note your patrons will need to show one of these cards per visit in order to enter under this membership.</p>
+																							<p style="color:#2b292b;font-size:20px;">Thank you again for your kind gift. We look forward to seeing your library patrons at the museum!</p>
+																							<p style="color:#2b292b;font-size:20px;">Sincerely,</p>
+																							<p style="color:#2b292b;font-size:20px;">Your Membership Department</p>
+																						{{else}}
+																							{{#ifEqual event_templates.[0].event_sessions.[0].tickets.[0].ticket_group_meta.Level 'YCC'}}
+																								<p style="color:#2b292b;font-weight:400;font-size:20px;">Thank you for joining the Guggenheim Museum as a(n) {{event_templates.[0].event_sessions.[0].tickets.[0].ticket_group_meta.member_display_level}}. Through your vital support, we are able to safeguard our world-renowned collection of modern and contemporary art, as well as present dynamic exhibitions and education programs that serve diverse audiences in New York City and around the globe—both in person and across the digital landscape.</p>
+																								<p style="color:#2b292b;font-weight:400;font-size:20px;">I hope you’ll join us at the museum soon to experience our newest exhibitions in person, including 
+																								<em>Etel Adnan: Light’s New Measure</em>, on view through January 2022; 
+																								<em>Vasily Kandinsky: Around the Circle</em>, on view through September 2022; and 
+																								<em>Gillian Wearing: Wearing Masks</em>, on view through November 8; and much more.</p>					  
+																								{{#ifEqual membership.auto_renew_on "true"}} 
+																									<p style="color:#2b292b;font-size:20px;">Thank you for joining through our automatic renewal program, your credit card will be charged annually on your expiration date. If you have any questions or wish to leave the program, please email us.</p>
+																								{{/ifEqual}}
+																								<p style="color:#2b292b;font-size:20px;">Your digital membership card(s) is included in this confirmation email. If you have any questions about your membership, please email 
+																								<a href="mailto:ycc@guggenheim.org">ycc@guggenheim.org</a>. 
+																								</p>
+																								<p style="color:#2b292b;font-size:20px;">Thank you again and welcome to the YCC. We look forward to seeing you at the museum soon! </p>
+																								<p style="color:#2b292b;font-size:20px;">Sincerely,</p>
+																								<p style="color:#2b292b;font-size:20px;">Mathew James Talaugon 
+																								<br>Assistant Director, Individual Giving
+																								</p>
+																							{{else}}
+																								{{#ifEqual event_templates.[0].event_sessions.[0].tickets.[0].ticket_group_meta.Level 'Patron'}}
+																									<p style="color:#2b292b;font-weight:400;font-size:20px;">Thank you for joining the Guggenheim Museum as a(n){{event_templates.[0].event_sessions.[0].tickets.[0].ticket_group_meta.member_display_level}}. Through your vital support, we are able to safeguard our world-renowned collection of modern and contemporary art, as well as present dynamic exhibitions and education programs that serve diverse audiences in New York City and around the globe—both in person and across the digital landscape.</p>
+																									<p style="color:#2b292b;font-weight:400;font-size:20px;">I hope you’ll join us at the museum soon to experience our newest exhibitions in person, including 
+																									<em>Etel Adnan: Light’s New Measure</em>, on view through January 2022; 
+																									<em>Vasily Kandinsky: Around the Circle</em>, on view through September 2022; and 
+																									<em>Gillian Wearing: Wearing Masks</em>, on view through November 8; and much more.</p>					  
+																									{{#ifEqual membership.auto_renew_on "true"}} 
+																										<p style="color:#2b292b;font-size:20px;">Thank you for joining through our automatic renewal program, your credit card will be charged annually on your expiration date. If you have any questions or wish to leave the program, please email us.</p>
+																									{{/ifEqual}}
+																									<p style="color:#2b292b;font-size:20px;">Your digital membership card(s) is included in this confirmation email. If you have any questions about your membership, please email 
+																									<a href="mailto:patronscircle@guggenheim.org">patronscircle@guggenheim.org</a>. 
+																									</p>
+																									<p style="color:#2b292b;font-size:20px;">Thank you again for your generous gift. We look forward to seeing you at the museum! </p>
+																									<p style="color:#2b292b;font-size:20px;">Sincerely,</p>
+																									<p style="color:#2b292b;font-size:20px;">Mathew James Talaugon 
+																									<br>Assistant Director, Individual Giving
+																									</p>
+																								{{else}}
+																									{{#ifEqual event_templates.[0].event_sessions.[0].tickets.[0].ticket_group_meta.Level 'Affinity'}}
+																										<p style="color:#2b292b;font-weight:400;font-size:20px;">On behalf of all of us at the Solomon R. Guggenheim Museum, thank you so much for your generous contribution to the {{event_templates.[0].event_sessions.[0].tickets.[0].ticket_group_meta.member_display_level}}. Through your vital support, we are able to safeguard our world-renowned collection of modern and contemporary art, as well as present dynamic exhibitions and education programs that serve diverse audiences in New York City and around the globe—both in person and across the digital landscape.</p>
+																										<p style="color:#2b292b;font-weight:400;font-size:20px;">I hope you’ll join us at the museum soon to experience our newest exhibitions in person, including 
+																										<em>Etel Adnan: Light’s New Measure</em>, on view through January 2022; 
+																										<em>Vasily Kandinsky: Around the Circle</em>, on view through September 2022; and 
+																										<em>Gillian Wearing: Wearing Masks</em>, on view through November 8; and much more. It would be a pleasure to welcome you in for a private visit at your convenience.</p>
+																										</p>
+																										<p style="color:#2b292b;font-weight:400;font-size:20px;">Your digital membership cards are included in this confirmation email, and below are the details of your gift. If you have any questions, please do not hesitate to reach out to us directly at 
+																										<a href="mailto:affinitygroups@guggenheim.org">AffinityGroups@Guggenheim.org</a>.
+																										</p>
+																										<p style="color:#2b292b;font-weight:400;font-size:20px;">Thank you again for your dedication to the Guggenheim.</p>
+																										<p style="color:#2b292b;font-size:20px;">Sincerely,</p>
+																										<p style="color:#2b292b;font-size:20px;">Halsey Keller,  
+																										<br>Director, Individual Giving<br>Solomon R. Guggenheim Museum
+																										</p>
+																									{{else}}
+																										{{#ifEqual event_templates.[0].event_sessions.[0].tickets.[0].ticket_group_meta.Level 'Artist'}}
+																											<p style="color:#2b292b;font-weight:400;font-size:20px;">Thank you for being a part of the Guggenheim family. We are happy to extend this Artist membership to you in recognition of the vital part you play in our museum community.
+																											<p style="color:#2b292b;font-weight:400;font-size:20px;">Your membership provides you with free admission and discounted guest admission, a 10% discount in our store and restaurants, savings on tickets to all programs, and invitations to exclusive member events.</p>
+																											<p style="color:#2b292b;font-size:20px;">Your digital membership card(s) is included in this confirmation email. If you have any questions about your membership, please email 
+																											<a href="mailto:membership@guggenheim.org">membership@guggenheim.org</a>. 
+																											</p>
+																											<p style="color:#2b292b;font-size:20px;">Thank you again for your kind gift. We look forward to seeing you at the museum! </p>
+																											<p style="color:#2b292b;font-size:20px;">Sincerely,</p>
+																											<p style="color:#2b292b;font-size:20px;">Membership Team</p>
+																										{{else}}
+																											<p style="color:#2b292b;font-weight:400;font-size:20px;">Thank you for joining the Guggenheim Museum as a(n) {{event_templates.[0].event_sessions.[0].tickets.[0].ticket_group_meta.member_display_level}}! Your generosity supports art and innovation.
+																											<p style="color:#2b292b;font-weight:400;font-size:20px;">Your membership provides you with free admission and discounted guest admission, a 10% discount in our store and restaurants, savings on tickets to all programs, and invitations to exclusive member events.</p>					  
+																											{{#ifEqual membership.auto_renew_on "true"}} 
+																												<p style="color:#2b292b;font-size:20px;">Thank you for joining through our automatic renewal program, your credit card will be charged annually on your expiration date. If you have any questions or wish to leave the program, please email us.</p>
+																											{{/ifEqual}}
+																											<p style="color:#2b292b;font-size:20px;">Your digital membership card(s) is included in this confirmation email. If you have any questions about your membership, please email 
+																											<a href="mailto:membership@guggenheim.org">membership@guggenheim.org</a>. 
+																											</p>
+																											<p style="color:#2b292b;font-size:20px;">Thank you again for your kind gift. We look forward to seeing you at the museum! </p>
+																											<p style="color:#2b292b;font-size:20px;">Sincerely,</p>
+																											<p style="color:#2b292b;font-size:20px;">Membership Team</p>
+																										{{/ifEqual}}
+																									{{/ifEqual}}
+																								{{/ifEqual}}
+																							{{/ifEqual}}
+																						{{/ifEqual}}
+																					{{/if}}
+																				</td>
+																			</tr>
+																		</table>
+																		<!--class="thank-you"-->
+																		<table class="paragraphs" style="border-spacing:0;text-align:left;padding-top:20px;padding-right:20px;width:100%;">
+																			<tr>
+																				<td style="padding:0;">
+																					<h2 style="color:#2b292b;font-size:20px;">Your membership</h2>
+																					<p style="color:#2b292b;font-size:20px;">
+																					<strong>Member ID</strong>: {{ membership.scan_code }}
+																					</p>
+																					<p style="color:#2b292b;font-size:20px;">
+																					{{#with event_templates.[0].event_sessions.[0].tickets.[0]}} 
+																					<strong>Membership level</strong>: {{ ticket_group_meta.member_display_level }} &nbsp;
+																					<br>
+																					<br>
+																					<strong>Expires</strong>: {{ formatDateTime valid_to_raw "01/02/2006" }}
+																					<table class="card-holder" width="100%" style="border-spacing:0;width:100%;">
+																						<tr>
+																							<td style="padding:0;">
+																								{{#each event_templates.[0].event_sessions.[0].tickets}}
+																									{{#ifEqual "Primary" ticket_type_name}}
+																										<table class="column" style="border-spacing:0;width:100%;max-width:220px;display:inline-block;vertical-align:top;padding-right:20px;">
+																											<tr>
+																												<td style="padding:0;">
+																													<table class="cards" style="border-spacing:0;border-radius:1em 1em 1em 1em;border-style:solid;border-width:1px;max-width:220px;width:100%;display:inline-block;">
+																														<tr>
+																															<td class="card-img" align="center" style="padding:0;border-radius:1em 1em 0 0;width:100%;text-align:left;color:#ffffff;background:#2b292b;max-width:220px !important;">
+																																<img style="border:0;border-collapse:separate; border-radius:1em 1em 0 0; width: 100%; max-width: 300px;" src="https://api.ticketure.com/v1/assets/guggenheim/693a1361-a282-b181-9444-e66804e1779a" alt="Guggenheim Member Card"/>
+																																<h4 style="font-size:18px;color:#ffffff;padding-left:10px;line-height:1.3em;font-weight:bold;">{{ ticket_holder_name }}
+																																	<br>
+																																	Expires &nbsp;&nbsp;
+																																	{{ formatDateTime valid_to_raw "01/02/2006" }}
+																																</h4>
+																															</td>
+																														</tr>
+																														<tr>
+																															<th class="two-columns" style="width:45%;display:inline-block;">
+																																<table class="QR-Code-Image" style="border-spacing:0;padding-left:8px;padding-right:8px;max-width:100px;">
+																																	<tr>
+																																		<td style="padding:0;">
+																																			<img src="https://{{portal.domain}}/api/membership/{{ ../membership.id }}/qrcode?size=72" alt="" width="72" height="72" style="border:0;border:0;margin-right:16px!important; width:auto;"/>
+																																		</td>
+																																	</tr>
+																																</table>
+																															</th>
+																															<th class="two-columns" style="width:45%;display:inline-block;">
+																																<table class="member-number" style="border-spacing:0;text-align:left;">
+																																	<tr>
+																																		<td style="padding:0;">
+																																			<h5 style="color:#2b292b;font-size:18px;font-weight:normal;">
+																																				<strong>{{ ticket_group_meta.member_display_level }}</strong>
+																																				<br>
+																																				ID: {{ ../membership.scan_code }}																																							<br>
+																																				<br>
+																																				{{#each event_templates.[0].event_sessions}}
+																																					{{this.count}} {{ticket_type_name}}
+																																					<br>
+																																				{{/each}}
+																																			</h5>
+																																		</td>
+																																	</tr>
+																																</table>
+																															</th>
+																														</tr>
+																													</table>
+																												</td>
+																											</tr>
+																											<tr style="text-align:left;vertical-align:top">
+																												<td style="padding:0;padding-top: 15px;">
+																													<a class="add-to-apple-pay" href="https://api.ticketure.com/v1/ticket/{{ticket_id}}/pkpass" style="text-decoration:none;font-weight:bold;color:#808285;">
+																														<img src="https://api.ticketure.com/v1/assets/guggenheim/a5753887-7d1a-ec3b-c570-0e48a9a8f7d3?sizey=45" alt="Add to Apple Wallet" target="_system" style="border:0;">
+																													</a> &nbsp; 
+																													<a class="add-to-google-pay" href="https://api.ticketure.com/v1/ticket/{{ticket_id}}/gwpass" style="text-decoration:none;font-weight:bold;color:#808285;">
+																														<img src="https://api.ticketure.com/v1/assets/guggenheim/83521632-a676-e3ec-086a-a48f065025a2?sizey=45" alt="Add to Google Pay" style="border:0;">
+																													</a>
+																												</td>
+																											</tr>
+																										</table>
+																									{{/ifEqual}}
+																									{{#ifEqual "Secondary" ticket_type_name}}				  
+																										<table class="column" style="border-spacing:0;width:100%;max-width:220px;display:inline-block;vertical-align:top;padding-right:20px;">
+																											<tr>
+																												<td style="padding:0;">
+																													<table class="cards" style="border-spacing:0;border-radius:1em 1em 1em 1em;border-style:solid;border-width:1px;max-width:220px;width:100%;display:inline-block;">
+																														<tr>
+																															<td class="card-img" align="center" style="padding:0;border-radius:1em 1em 0 0;width:100%;text-align:left;color:#ffffff;background:#2b292b;max-width:220px !important;">
+																																<img style="border:0;border-collapse:separate; border-radius:1em 1em 0 0; width: 100%; max-width: 220px;" src="https://api.ticketure.com/v1/assets/guggenheim/693a1361-a282-b181-9444-e66804e1779a" alt="Guggenheim Member Card"/>
+																																<h4 style="font-size:18px;color:#ffffff;padding-left:10px;line-height:1.3em;font-weight:bold;">{{ ticket_holder_name }}
+																																	<br>
+																																	Expires &nbsp;&nbsp;
+																																	{{ formatDateTime valid_to_raw "01/02/2006" }}
+																																</h4>
+																															</td>
+																														</tr>
+																														<tr>
+																															<th class="two-columns" style="width:45%;display:inline-block;">
+																																<table class="QR-Code-Image" style="border-spacing:0;padding-left:8px;padding-right:8px;max-width:100px;">
+																																	<tr>
+																																		<td style="padding:0;">
+																																			<img src="https://{{portal.domain}}/api/membership/{{ ../membership.id }}/qrcode?size=72" alt="" width="72" height="72" style="border:0;border:0;margin-right:16px!important; width:auto;"/>
+																																		</td>
+																																	</tr>
+																																</table>
+																															</th>
+																															<th class="two-columns" style="width:45%;display:inline-block;">
+																																<table class="member-number" style="border-spacing:0;text-align:left;">
+																																	<tr>
+																																		<td style="padding:0;">
+																																			<h5 style="color:#2b292b;font-size:18px;font-weight:normal;">
+																																				<strong>{{ ticket_group_meta.member_display_level }}</strong>
+																																				<br>
+																																				ID: {{ ../membership.scan_code }}
+																																				<br>
+																																				<br>
+																																				{{#each event_templates.[0].event_sessions}}
+																																					{{this.count}} {{ticket_type_name}}
+																																					<br>
+																																				{{/each}}
+																																			</h5>
+																																		</td>
+																																	</tr>
+																																</table>
+																															</th>																														
+																														</tr>
+																													</table>
+																												</td>
+																											</tr>
+																											<tr style="text-align:left;vertical-align:top">
+																												<td style="padding:0;padding-top: 15px;">
+																													<a class="add-to-apple-pay" href="https://api.ticketure.com/v1/ticket/{{ticket_id}}/pkpass" style="text-decoration:none;font-weight:bold;color:#808285;">
+																														<img src="https://api.ticketure.com/v1/assets/guggenheim/a5753887-7d1a-ec3b-c570-0e48a9a8f7d3?sizey=45" alt="Add to Apple Wallet" target="_system" style="border:0;">
+																														</a> &nbsp; 
+																													<a class="add-to-google-pay" href="https://api.ticketure.com/v1/ticket/{{ticket_id}}/gwpass" style="text-decoration:none;font-weight:bold;color:#808285;">
+																														<img src="https://api.ticketure.com/v1/assets/guggenheim/83521632-a676-e3ec-086a-a48f065025a2?sizey=45" alt="Add to Google Pay" style="border:0;">
+																													</a>
+																												</td>
+																											</tr>
+																										</table>
+																									{{/ifEqual}}
+																								{{/each}}
+																							</td>
+																						</tr>
+																					</table>
+																					{{/with}}
+																					<br>
+																			<!--Tax paragraph-->
+																					<p style="Margin:0;Margin-bottom:10px;color:#2b292b;font-family:Arial;font-size:20px;font-weight:400;line-height:24px;margin:0;margin-bottom:10px;padding:0;text-align:left">Please note that of the ${{event_templates.[0].event_sessions.[0].tickets_summary.[0].single_adjusted_price}} contribution made by {{identity_name}} on {{formatDateTime event_templates.[0].purchased_on_raw "Monday, January 2, 2006"}}, the estimated fair-market value of goods and services provided by the Guggenheim is ${{event_templates.[0].event_sessions.[0].tickets.[0].ticket_group_meta.goods_and_services}}. The amount that exceeds this value will be tax-deductible, subject to any limitations prescribed by law. Memberships are not transferable or refundable; we reserve the right to terminate membership if appropriate.</p>
+																					<p style="Margin:0;Margin-bottom:10px;color:#2b292b;font-family:Arial;font-size:20px;font-weight:400;line-height:24px;margin:0;margin-bottom:10px;padding:0;text-align:left">Please plan ahead and read 
+																						<a href="https://www.guggenheim.org/plan-your-visit/coronavirus-information"style="Margin:0;color:#2b292b;font-family:Arial;font-weight:400;line-height:24px;margin:0;padding:0;text-align:left;text-decoration:underline">COVID-19 Safety Measures: What to Expect When Visiting</a> to learn about how we've focused on your health and safety, so you can focus on your experience.
+																					</p>
+																					<br>
+																					<hr style="border-color:#2b292b;border-style:solid;border-width:1px 0 0;height;0;margin:0">
+																					<h2 style="Margin:0;Margin-bottom;10px;color:#2b292b;font-family:Forza,'Forza A', 'Forza B', Helvetica, sans-serif;font-size:20px;font-weight:700;line-height:24px;margin:0;margin-bottom:10px;margin-top:30px;padding:0;text-align:left;word-wrap:normal">
+																						Order Summary
+																					</h2>
+																					<p style="Margin:0;Margin-bottom:10px;color:#2b292b;font-family:Forza,'Forza A','Forza B',Helvetica,sans-serif;font-size:20px;font-weight:400;line-height:24px;margin:0;margin-bottom:10px;padding:0;text-align:left">
+																						Your purchase details are below. Thank you again for your support of the Guggenheim.
+																					</p>
+																				</td>
+																				<th class="expander" style="Margin:0;color:#2b292b;font-family:Forza,'Forza A','Forza B',Helvetica,sans-serif;font-size:14px;font-weight:400;line-height:24px;margin:0;padding:0!important;text-align:left;visibility:hidden;width:0"></th>
+																			</tr>
+																		</table>
+																		<table class="row order-summary" style="border-collapse:collapse;border-spacing:0;display:table;padding:0;position:relative;text-align:left;vertical-align:top;width:100%">
+																			<tbody>
+																				<tr style="padding:0;text-align:left;vertical-align:top">
+																					<th class="small-12 large-6 columns first" style="Margin:0 auto;color:#2b292b;font-family:Forza,'Forza A','Forza B',Helvetica,sans-serif;font-size:14px;font-weight:400;line-height:24px;margin:0 auto;padding:0;padding-bottom:16px;padding-left:16px;padding-right:8px;text-align:left;width:274px">
+																						<table style="border-collapse:collapse;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%">
+																							<tr style="padding:0;text-align:left;vertical-align:top">
+																								<th style="Margin:0;color:#2b292b;font-family:Forza,'Forza A','Forza B',Helvetica,sans-serif;font-size:14px;font-weight:400;line-height:24px;margin:0;padding:0;text-align:left">
+																									<p style="Margin:0;Margin-bottom:10px;color:#2b292b;font-family:Forza,'Forza A','Forza B',Helvetica,sans-serif;font-size:18px;font-weight:400;line-height:22px;margin:0;margin-bottom:10px;padding:0;text-align:left">
+																									<strong>Order #:</strong> {{ticket_order_number}}
+																									</p>
+																									{{#each event_templates}} 
+																										{{#each event_sessions}} 
+																											{{#with tickets.[0]}}
+																												<p style="Margin:0;Margin-bottom:10px;color:#2b292b;font-family:Forza,'Forza A','Forza B',Helvetica,sans-serif;font-size:18px;font-weight:400;line-height:22px;margin:0;margin-bottom:10px;padding:0;text-align:left">
+																													<strong>Member ID:</strong> {{../../../membership.scan_code}}
+																												</p>
+																												<p style="Margin:0;Margin-bottom:10px;color:#2b292b;font-family:Forza,'Forza A','Forza B',Helvetica,sans-serif;font-size:18px;font-weight:400;line-height:22px;margin:0;margin-bottom:10px;padding:0;text-align:left">
+																													<strong>Expires:</strong> {{formatDateTime valid_to_raw "January 2, 2006"}}
+																												</p>
+																											{{/with}}
+																										{{/each}} 
+																									{{/each}}
+																									<p style="Margin:0;Margin-bottom:10px;color:#2b292b;font-family:Forza,'Forza A','Forza B',Helvetica,sans-serif;font-size:18px;font-weight:400;line-height:22px;margin:0;margin-bottom:10px;padding:0;text-align:left">
+																										<strong>Purchase Date:</strong> {{formatDateTime payments.[0].occurred_on_raw "January 2, 2006"}}
+																									</p>
+																								</th>
+																							</tr>
+																						</table>
+																					</th>
+																					<th class="small-12 large-6 columns last" style="Margin:0 auto;color:#2b292b;font-family:Forza,'Forza A','Forza B',Helvetica,sans-serif;font-size:18px;font-weight:400;line-height:22px;margin:0 auto;padding:0;padding-bottom:16px;padding-left:8px;padding-right:16px;text-align:left;width:274px">
+																						<table style="border-collapse:collapse;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%">
+																							<tr style="padding:0;text-align:left;vertical-align:top">
+																								<th style="Margin:0;color:#2b292b;font-family:Forza,'Forza A','Forza B',Helvetica,sans-serif;font-size:18px;font-weight:400;line-height:22px;margin:0;padding:0;text-align:left">
+																									<p style="Margin:0;Margin-bottom:10px;color:#2b292b;font-family:Forza,'Forza A','Forza B',Helvetica,sans-serif;font-size:18px;font-weight:400;line-height:22px;margin:0;margin-bottom:10px;padding:0;text-align:left">
+																										<strong>Your Details:</strong>
+																										<br>{{identity_name}} 
+																										{{#if identity_meta.address}}
+																											<br>{{identity_meta.address}}
+																											<br>{{identity_meta.city}}, {{identity_meta.state}} {{identity_meta.zip_code}} 
+																										{{else}} {{identity_email}}
+																											<br>{{identity_meta.phone}} 
+																										{{/if}}
+																									</p>
+																								</th>
+																							</tr>
+																						</table>
+																					</th>
+																				</tr>
+																			</tbody>
+																		</table>
+																		<table class="row breakdown-header tickets" style="border-collapse:collapse;border-spacing:0;display:table;padding:0;position:relative;text-align:left;vertical-align:top;width:100%">
+																			<tbody>
+																				<tr style="padding:0;text-align:left;vertical-align:top">
+																					<th class="small-6 large-6 columns first" style="Margin:0 auto;color:#000000;font-family:Forza,'Forza A','Forza B',Helvetica,sans-serif;font-size:14px;font-weight:700;line-height:24px;margin:0 auto;padding:0;padding-bottom:0;padding-left:16px;padding-right:8px;padding-top:32px;text-align:left;width:274px">
+																						<table style="border-collapse:collapse;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%">
+																							<tr style="padding:0;text-align:left;vertical-align:top">
+																								<th style="Margin:0;color:#000000;font-family:Forza,'Forza A','Forza B',Helvetica,sans-serif;font-size:18px;font-weight:700;line-height:22px;margin:0;padding:0;text-align:left">
+																									Tickets
+																								</th>
+																							</tr>
+																						</table>
+																					</th>
+																					<th class="text-right small-6 large-6 columns last" style="Margin:0 auto;color:#000000;font-family:Forza,'Forza A','Forza B',Helvetica,sans-serif;font-size:14px;font-weight:700;line-height:24px;margin:0 auto;padding:0;padding-bottom:0;padding-left:8px;padding-right:16px;padding-top:32px;text-align:right;width:274px">
+																						<table style="border-collapse:collapse;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%">
+																							<tr style="padding:0;text-align:left;vertical-align:top">
+																								<th style="Margin:0;color:#000000;font-family:Forza,'Forza A','Forza B',Helvetica,sans-serif;font-size:18px;font-weight:700;line-height:22px;margin:0;padding:0;text-align:right">
+																									Price
+																								</th>
+																							</tr>
+																						</table>
+																					</th>
+																				</tr>
+																			</tbody>
+																		</table>
+																		{{#each event_templates}} 
+																			{{#each event_sessions}} 
+																				{{#each tickets_summary}} 
+																					{{#ifEqual "Primary" ticket_type_name}}
+																						<hr class="dashed with-margins" style="border-color:#C8C8C8;border-style:dashed;border-width:1px 0 0;height:0;margin:0;margin-left:16px;margin-right:16px;margin-top:16px">
+																						<table class="row breakdown-section" style="border-collapse:collapse;border-spacing:0;display:table;padding:0;position:relative;text-align:left;vertical-align:top;width:100%">
+																							<tbody>
+																								<tr style="padding:0;text-align:left;vertical-align:top">
+																									<th class="small-12 large-12 columns first last" style="Margin:0 auto;color:#2b292b;font-family:Forza,'Forza A','Forza B',Helvetica,sans-serif;font-size:18px;font-weight:400;line-height:22px;margin:0 auto;padding:0;padding-bottom:8px;padding-left:16px;padding-right:16px;text-align:left;width:564px">
+																										<table style="border-collapse:collapse;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%">
+																											<tr style="padding:0;text-align:left;vertical-align:top">
+																												<th style="Margin:0;color:#2b292b;font-family:Forza,'Forza A','Forza B',Helvetica,sans-serif;font-size:18px;font-weight:400;line-height:22px;margin:0;padding:0;padding-left:16px;padding-top:16px;text-align:left">
+																													<strong>{{ticket_group_name}}</strong>
+																												</th>
+																												<th class="expander" style="Margin:0;color:#2b292b;font-family:Forza,'Forza A','Forza B',Helvetica,sans-serif;font-size:18px;font-weight:400;line-height:22px;margin:0;padding:0!important;padding-left:16px;padding-top:16px;text-align:left;visibility:hidden;width:0"></th>
+																											</tr>
+																										</table>
+																									</th>
+																								</tr>
+																							</tbody>
+																						</table>
+																						<table class="row breakdown-line" style="border-collapse:collapse;border-spacing:0;display:table;padding:0;position:relative;text-align:left;vertical-align:top;width:100%">
+																							<tbody>
+																								<tr style="padding:0;text-align:left;vertical-align:top">
+																									<th class="small-9 large-9 columns first" style="Margin:0 auto;color:#2b292b;font-family:Forza,'Forza A','Forza B',Helvetica,sans-serif;font-size:18px;font-weight:400;line-height:22px;margin:0 auto;padding:0;padding-bottom:8px;padding-left:16px;padding-right:8px;text-align:left;width:419px">
+																										<table style="border-collapse:collapse;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%">
+																											<tr style="padding:0;text-align:left;vertical-align:top">
+																												<th style="Margin:0;color:#2b292b;font-family:Forza,'Forza A','Forza B',Helvetica,sans-serif;font-size:18px;font-weight:400;line-height:22px;margin:0;padding:0;padding-left:32px;text-align:left">
+																													{{this.count}} x {{ticket_group_name}} 
+																													<span class="inline-group">
+																														@ {{#ifNotEqual single_price single_adjusted_price}} 
+																														<s>${{single_price}}</s> {{/ifNotEqual}} ${{single_adjusted_price}}
+
+																													</span>
+																												</th>
+																											</tr>
+																										</table>
+																									</th>
+																									<th class="text-right small-3 large-3 columns last" style="Margin:0 auto;color:#2b292b;font-family:Forza,'Forza A','Forza B',Helvetica,sans-serif;font-size:14px;font-weight:400;line-height:24px;margin:0 auto;padding:0;padding-bottom:8px;padding-left:8px;padding-right:16px;text-align:right;width:129px">
+																										<table style="border-collapse:collapse;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%">
+																											<tr style="padding:0;text-align:left;vertical-align:top">
+																												<th style="Margin:0;color:#2b292b;font-family:Forza,'Forza A','Forza B',Helvetica,sans-serif;font-size:12px;font-weight:400;line-height:16px;margin:0;padding:0;text-align:right">
+																													{{#ifNotEqual row_price row_adjusted_price}} 
+																														<s>${{row_price}}</s> 
+																													{{/ifNotEqual}} 
+																													${{row_adjusted_price}}
+																												</th>
+																											</tr>
+																										</table>
+																									</th>
+																								</tr>
+																							</tbody>
+																						</table>
+																					{{/ifEqual}}
+																				{{/each}}
+																			{{/each}}
+																		{{/each}} 
+																		{{#if discounts}}
+																			<hr class="with-margins black" style="border-color:#787878;border-style:solid;border-width:1px 0 0;height:0;margin:0;margin-left:16px;margin-right:16px;margin-top:16px">
+																			<table class="row breakdown-header discounts" style="border-collapse:collapse;border-spacing:0;display:table;padding:0;position:relative;text-align:left;vertical-align:top;width:100%">
+																				<tbody>
+																					<tr style="padding:0;text-align:left;vertical-align:top">
+																						<th class="small-9 large-9 columns first" style="Margin:0 auto;color:#000000;font-family:Forza,'Forza A','Forza B',Helvetica,sans-serif;font-size:14px;font-weight:700;line-height:24px;margin:0 auto;padding:0;padding-bottom:16px;padding-left:16px;padding-right:8px;padding-top:32px;text-align:left;width:419px">
+																							<table style="border-collapse:collapse;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%">
+																								<tr style="padding:0;text-align:left;vertical-align:top">
+																									<th style="Margin:0;color:#000000;font-family:Forza,'Forza A','Forza B',Helvetica,sans-serif;font-size:14px;font-weight:700;line-height:24px;margin:0;padding:0;text-align:left">
+																										Discounts
+																									</th>
+																								</tr>
+																							</table>
+																						</th>
+																						<th class="text-right small-3 large-3 columns last" style="Margin:0 auto;color:#000000;font-family:Forza,'Forza A','Forza B',Helvetica,sans-serif;font-size:14px;font-weight:700;line-height:24px;margin:0 auto;padding:0;padding-bottom:16px;padding-left:8px;padding-right:16px;padding-top:32px;text-align:right;width:129px">
+																							<table style="border-collapse:collapse;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%">
+																								<tr style="padding:0;text-align:left;vertical-align:top">
+																									<th style="Margin:0;color:#000000;font-family:Forza,'Forza A','Forza B',Helvetica,sans-serif;font-size:14px;font-weight:700;line-height:24px;margin:0;padding:0;text-align:right">
+																										Amount
+																									</th>
+																								</tr>
+																							</table>
+																						</th>
+																					</tr>
+																				</tbody>
+																			</table>
+																			{{#each discounts}}
+																				<table class="row breakdown-discount" style="border-collapse:collapse;border-spacing:0;display:table;padding:0;position:relative;text-align:left;vertical-align:top;width:100%">
+																					<tbody>
+																						<tr style="padding:0;text-align:left;vertical-align:top">
+																							<th class="small-9 large-9 columns first" style="Margin:0 auto;color:#2b292b;font-family:Forza,'Forza A','Forza B',Helvetica,sans-serif;font-size:14px;font-weight:400;line-height:24px;margin:0 auto;padding:0;padding-bottom:8px;padding-left:16px;padding-right:8px;text-align:left;width:419px">
+																								<table style="border-collapse:collapse;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%">
+																									<tr style="padding:0;text-align:left;vertical-align:top">
+																										<th style="Margin:0;color:#2b292b;font-family:Forza,'Forza A','Forza B',Helvetica,sans-serif;font-size:12px;font-weight:400;line-height:16px;margin:0;padding:0;padding-left:32px;text-align:left">
+																											{{name}}
+																										</th>
+																									</tr>
+																								</table>
+																							</th>
+																							<th class="text-right small-3 large-3 columns last" style="Margin:0 auto;color:#2b292b;font-family:Forza,'Forza A','Forza B',Helvetica,sans-serif;font-size:14px;font-weight:400;line-height:24px;margin:0 auto;padding:0;padding-bottom:8px;padding-left:8px;padding-right:16px;text-align:right;width:129px">
+																								<table style="border-collapse:collapse;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%">
+																									<tr style="padding:0;text-align:left;vertical-align:top">
+																										<th style="Margin:0;color:#2b292b;font-family:Forza,'Forza A','Forza B',Helvetica,sans-serif;font-size:12px;font-weight:400;line-height:16px;margin:0;padding:0;text-align:right">
+																											${{discount}}
+																										</th>
+																									</tr>
+																								</table>
+																							</th>
+																						</tr>
+																					</tbody>
+																				</table>
+																			{{/each}} 
+																		{{/if}} 
+																		{{#if payments.[0].amount}}
+																			<hr class="with-margins black" style="border-color:#787878;border-style:solid;border-width:1px 0 0;height:0;margin:0;margin-left:16px;margin-right:16px;margin-top:16px">
+																			<table class="row breakdown-total" style="border-collapse:collapse;border-spacing:0;display:table;padding:0;position:relative;text-align:left;vertical-align:top;width:100%">
+																				<tbody>
+																					<tr style="padding:0;text-align:left;vertical-align:top">
+																						<th class="small-3 large-6 columns first" style="Margin:0 auto;color:#2b292b;font-family:Forza,'Forza A','Forza B',Helvetica,sans-serif;font-size:14px;font-weight:400;line-height:24px;margin:0 auto;padding:0;padding-bottom:32px;padding-left:16px;padding-right:8px;padding-top:32px;text-align:left;width:274px">
+																							<table style="border-collapse:collapse;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%">
+																								<tr style="padding:0;text-align:left;vertical-align:top">
+																									<th style="Margin:0;color:#2b292b;font-family:Forza,'Forza A','Forza B',Helvetica,sans-serif;font-size:14px;font-weight:700;line-height:24px;margin:0;padding:0;text-align:left">&nbsp;</th>
+																								</tr>
+																							</table>
+																						</th>
+																						<th class="small-6 large-3 columns" style="Margin:0 auto;color:#2b292b;font-family:Forza,'Forza A','Forza B',Helvetica,sans-serif;font-size:14px;font-weight:400;line-height:24px;margin:0 auto;padding:0;padding-bottom:32px;padding-left:8px;padding-right:8px;padding-top:32px;text-align:left;width:129px">
+																							<table style="border-collapse:collapse;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%">
+																								<tr style="padding:0;text-align:left;vertical-align:top">
+																									<th style="Margin:0;color:#2b292b;font-family:Forza,'Forza A','Forza B',Helvetica,sans-serif;font-size:18px;font-weight:700;line-height:22px;margin:0;padding:0;text-align:left">
+																										Total payment:
+																									</th>
+																								</tr>
+																							</table>
+																						</th>
+																						<th class="text-right small-3 large-3 columns last" style="Margin:0 auto;color:#2b292b;font-family:Forza,'Forza A','Forza B',Helvetica,sans-serif;font-size:14px;font-weight:400;line-height:24px;margin:0 auto;padding:0;padding-bottom:32px;padding-left:8px;padding-right:16px;padding-top:32px;text-align:right;width:129px">
+																							<table style="border-collapse:collapse;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%">
+																								<tr style="padding:0;text-align:left;vertical-align:top">
+																									<th style="Margin:0;color:#2b292b;font-family:Forza,'Forza A','Forza B',Helvetica,sans-serif;font-size:18px;font-weight:700;line-height:22px;margin:0;padding:0;text-align:right">
+																										${{total_price}}
+																									</th>
+																								</tr>
+																							</table>
+																						</th>
+																					</tr>
+																				</tbody>
+																			</table>
+																			<table class="row" style="border-collapse:collapse;border-spacing:0;display:table;padding:0;position:relative;text-align:left;vertical-align:top;width:100%">
+																				<tbody>
+																					<tr style="padding:0;text-align:left;vertical-align:top">
+																						<th class="fineprint small-12 large-12 columns first last" style="Margin:0 auto;color:#2b292b;font-family:Forza,'Forza A','Forza B',Helvetica,sans-serif;font-size:12px;font-weight:400;line-height:16px;margin:0 auto;padding:0;padding-bottom:16px;padding-left:16px;padding-right:16px;text-align:left;width:564px">
+																							<table style="border-collapse:collapse;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%">
+																								<tr style="padding:0;text-align:left;vertical-align:top">
+																									<th style="Margin:0;color:#2b292b;font-family:Forza,'Forza A','Forza B',Helvetica,sans-serif;font-size:18px;font-weight:400;line-height:22px;margin:0;padding:0;text-align:left">
+																										<div>
+																											<!-- Tax blurb--> This serves as your official tax receipt. Please retain it for your records. Tax-deductible membership gifts are non-refundable.
+																										</div>
+																									</th>
+																									<th class="expander" style="Margin:0;color:#2b292b;font-family:Forza,'Forza A','Forza B',Helvetica,sans-serif;font-size:18px;font-weight:400;line-height:22px;margin:0;padding:0!important;text-align:left;visibility:hidden;width:0"></th>
+																								</tr>
+																							</table>
+																						</th>
+																					</tr>
+																				</tbody>
+																			</table>
+																		{{/if}}
+																		<hr class="with-margins" style="border-color:#2b292b;border-style:solid;border-width:1px 0 0;height:0;margin:0;margin-left:16px;margin-right:16px">
+																		<table class="row last-row" style="border-collapse:collapse;border-spacing:0;display:table;padding:0;position:relative;text-align:left;vertical-align:top;width:100%">
+																			<tbody>
+																				<tr style="padding:0;text-align:left;vertical-align:top">
+																					<table class="row" style="border-collapse:collapse;border-spacing:0;display:table;padding:0;position:relative;text-align:left;vertical-align:top;width:100%">
+																						<th class="footnote fineprint small-12 large-7 columns first" style="Margin:0 auto;color:#2b292b;font-family:Forza,'Forza A','Forza B',Helvetica,sans-serif;font-size:18px;font-weight:400;line-height:22px;margin:0 auto;padding:0;padding-bottom:10px;padding-left:16px;padding-right:8px;padding-top:32px;text-align:left;width:322.33px">
+																							<table style="border-collapse:collapse;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%">
+																								<tr style="padding:0;text-align:left;vertical-align:top">
+																									<th style="Margin:0;color:#2b292b;font-family:Forza,'Forza A','Forza B',Helvetica,sans-serif;font-size:18px;font-weight:400;line-height:22px;margin:0;padding:0;text-align:center">
+																									</th>
+																								</tr>
+																							</table>
+																						</th>
+																						<hr class="with-margins" style="border-color:#2b292b;border-style:solid;border-width:1px 0 0;height:0;margin:0;margin-left:16px;margin-right:16px">
+																						<table class="row last-row" style="border-collapse:collapse;border-spacing:0;display:table;padding:0;position:relative;text-align:left;vertical-align:top;width:100%">
+																							<tbody>
+																								<tr style="padding:0;text-align:left;vertical-align:top">
+																									<table class="row" style="border-collapse:collapse;border-spacing:0;display:table;padding:0;position:relative;text-align:left;vertical-align:top;width:100%">
+																										<table class="row" style="border-collapse:collapse;border-spacing:0;display:table;padding:0;position:relative;text-align:left;vertical-align:top;width:100%">
+																											<tbody>
+																												<tr style="font-size:0;padding:0;text-align:left;vertical-align:top">
+																													<th class="social-links tix-last-row small-12 large-12 columns first last" style="Margin:0 auto;border-bottom:10px;color:#2b292b;font-family:Geogrotesque,Helvetica,Arial,sans-serif;font-size:18px;font-weight:400;line-height:1.46;margin:0 auto;padding:0;padding-bottom:16px;padding-left:0px;padding-right:10px;text-align:left;width:564px">
+																														<table style="border-collapse:collapse;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%">
+																															<tr style="padding:0;text-align:left;vertical-align:top">
+																																<td style="Margin:0;color:#0E2845;font-family:Geogrotesque,Helvetica,Arial,sans-serif;font-size:18px;font-weight:400;line-height:80px;margin:0;padding:0;text-align:center;vertical-align:middle;width:25%;">
+																																	<a href="https://twitter.com/Guggenheim" style="Margin:0;color:#2b292b;display:inline-block;font-family:Geogrotesque,Helvetica,Arial,sans-serif;font-weight:400;line-height:1.46;margin:0;padding:0;padding-bottom:16px;padding-top:16px;text-align:left;text-decoration:none">
+																																		<img alt="Twitter" width="30" src="https://secure.guggenheim.org/api/assets/guggenheim/2374889a-ed57-90c5-19f3-a6c45df58b25" style="-ms-interpolation-mode:bicubic;border:none;clear:both;display:inline;max-width:100%;outline:0;text-decoration:none;vertical-align:middle;width:30px">
+																																	</a>&nbsp;&nbsp; 
+																																</td>
+																																<td style="Margin:0;color:#0E2845;font-family:Geogrotesque,Helvetica,Arial,sans-serif;font-size:18px;font-weight:400;line-height:80px;margin:0;padding:0;text-align:center;vertical-align:middle;width:25%;">
+																																	<a href="https://www.instagram.com/guggenheim/" style="Margin:0;color:#2b292b;display:inline-block;font-family:Geogrotesque,Helvetica,Arial,sans-serif;font-weight:400;line-height:1.46;margin:0;padding:0;padding-bottom:16px;padding-top:16px;text-align:left;text-decoration:none">
+																																		<img alt="Instagram" width="30" src="https://secure.guggenheim.org/api/assets/guggenheim/51dfe3a0-c9b0-ddc5-a567-eb20b391ed22" style="-ms-interpolation-mode:bicubic;border:none;clear:both;display:inline;max-width:100%;outline:0;text-decoration:none;vertical-align:middle;width:30px">
+																																	</a>&nbsp;&nbsp; 
+																																</td>
+																																<td style="Margin:0;color:#0E2845;font-family:Geogrotesque,Helvetica,Arial,sans-serif;font-size:18px;font-weight:400;line-height:80px;marin:0;padding:0;text-align:center;vertical-align:middle;width:25%;">
+																																	<a href="https://www.facebook.com/guggenheimmuseum" style="Margin:0;color:#2b292b;display:inline-block;font-family:Geogrotesque,Helvetica,Arial,sans-serif;font-weight:400;line-height:1.46;margin:0;padding:0;padding-bottom:16px;padding-top:16px;text-align:left;text-decoration:none">
+																																		<img alt="Facebook" width="30" src="https://secure.guggenheim.org/api/assets/guggenheim/6de19887-5e0a-d321-8f4d-641594dd1a86" style="-ms-interpolation-mode:bicubic;border:none;clear:both;display:inline;max-width:100%;outline:0;text-decoration:none;vertical-align:middle;width:30px">
+																																	</a>&nbsp;&nbsp;
+																																</td>
+																																<td style="Margin:0;color:#0E2845;font-family:Geogrotesque,Helvetica,Arial,sans-serif;font-size:18px;font-weight:400;line-height:80px;marin:0;padding:0;text-align:center;vertical-align:middle;width:25%;">
+																																	<a href="https://www.youtube.com/user/guggenheim" style="Margin:0;color:#2b292b;display:inline-block;font-family:Geogrotesque,Helvetica,Arial,sans-serif;font-weight:400;line-height:1.46;margin:0;padding:0;padding-bottom:16px;padding-top:16px;text-align:left;text-decoration:none">
+																																		<img alt="Youtube" width="30" src="https://secure.guggenheim.org/api/assets/guggenheim/fff225ea-b414-c119-32d9-fe1b7094413d" style="-ms-interpolation-mode:bicubic;border:none;clear:both;display:inline;max-width:100%;outline:0;text-decoration:none;vertical-align:middle;width:30px">
+																																	</a>&nbsp;&nbsp;
+																																</td>
+																															</tr>
+																														</table>
+																														<p>
+																														<p style="color:#2b292b;font-family:Arial;font-size:16px;font-weight:400;line-height:22px;margin:0;0;text-align:left;">
+																															<strong>The Guggenheim gratefully acknowledges its Global Partners</strong>
+																														</p>
+																														<table style="border-collapse:collapse;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%">	
+																						<tr style="padding:0;text-align:left;vertical-align:top">
+																							<tr style="padding:0;text-align:center;vertical-align:top;width:100%">
+																								<td style="Margin:0;color:#0E2845;font-family:Geogrotesque,Helvetica,Arial,sans-serif;font-size:18px;font-weight:400;line-height:80px;margin:0;padding:0;vertical-align:middle;width:33%;">	
+																									<img alt="Bloomberg" width="150" src="https://image.emails.guggenheim.org/lib/fe9f12717165057e75/m/9/834f1d7c-5e37-4ced-9a74-cda7c0779c72.png" style="-ms-interpolation-mode:bicubic;border:none;clear:both;display:inline;max-width:100%;outline:0;text-decoration:none;vertical-align:middle;width:150px;padding:5px,5px,5px,5px;">
+																								</td>
+																								<td style="Margin:0;color:#0E2845;font-family:Geogrotesque,Helvetica,Arial,sans-serif;font-size:18px;font-weight:400;line-height:80px;margin:0;padding:0;vertical-align:middle;width:33%;">	
+																									<img alt="Lavazza" width="150" src="https://image.emails.guggenheim.org/lib/fe9f12717165057e75/m/9/d1c6d90d-ca0b-4f91-8c2f-98f6dfe583b5.png" style="-ms-interpolation-mode:bicubic;border:none;clear:both;display:inline;max-width:100%;outline:0;text-decoration:none;vertical-align:middle;width:150px;padding:5px,5px,5px,5px;">
+																								</td>
+																								<td style="Margin:0;color:#0E2845;font-family:Geogrotesque,Helvetica,Arial,sans-serif;font-size:18px;font-weight:400;line-height:80px;margin:0;padding:0;vertical-align:middle;width:33%;">																											
+																									<img alt="The Macallan" width="150" src="https://image.emails.guggenheim.org/lib/fe9f12717165057e75/m/9/487408cb-60d1-4f8a-9c66-d748becfd449.png" style="-ms-interpolation-mode:bicubic;border:none;clear:both;display:inline;max-width:100%;outline:0;text-decoration:none;vertical-align:middle;width:150px;padding:5px,5px,5px,5px;">
+																								</td>
+																							</tr>
+																							<tr style="padding:0;text-align:left;vertical-align:top">
+																							 <th class="expander" style="Margin:0;color:#2b292b;font-family:Geogrotesque,Helvetica,Arial,sans-serif;font-size:18px;font-weight:400;line-height:80px;margin:0;padding:0!important;text-align:center;vertical-align:middle;visibility:hidden;width:0"></th>
+																							</tr>
+																						</table>
+																													</th>
+																												</tr>
+																											</tbody>
+																										</table>
+																									</table>
+																								</tr>
+																							</tbody>
+																						</table>
+																						<div class="footer">
+																							<table class="spacer" style="border-collapse:collapse;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%">
+																								<tbody>
+																									<tr style="padding:0;text-align:left;vertical-align:top">
+																										<td height="24px" style="-moz-hyphens:auto;-webkit-hyphens:auto;Margin:0;border-collapse:collapse!important;color:#2b292b;font-family:Arial;font-size:24px;font-weight:400;hyphens:auto;line-height:30px;margin:0;mso-line-height-rule:exactly;padding:0;text-align:left;vertical-align:top;word-wrap:break-word">&#xA0;</td>
+																									</tr>
+																								</tbody>
+																							</table>
+																							<a href="https://{{portal.domain}}/ticket_order/{{ticket_order_id}}" style="Margin:0;color:#2b292b;font-family:Arial;font-weight:400;line-height:24px;margin:0;padding:0;text-align:left;text-decoration:none">
+																									<center>View Membership Online</center>
+																							</a>
+																							<table class="spacer" style="border-collapse:collapse;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%">
+																								<tbody>
+																									<tr style="padding:0;text-align:left;vertical-align:top">
+																										<td height="24px" style="-moz-hyphens:auto;-webkit-hyphens:auto;Margin:0;border-collapse:collapse!important;color:#2b292b;font-family:Arial;font-size:24px;font-weight:400;hyphens:auto;line-height:30px;margin:0;mso-line-height-rule:exactly;padding:0;text-align:left;vertical-align:top;word-wrap:break-word">&#xA0;</td>
+																									</tr>
+																								</tbody>
+																							</table>
+																						</div>
+																					</table>
+																				</tr>
+																			</tbody>
+																		</table>
+																	{{/ifEqual}}
+																</th>
+															</tr>
+														</table>
+													</th>
+												</tr>
+											</tbody>
+										</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>	
+					</center>
+				</td>
+			</tr>
+		</table>
+		<div style="display:none;white-space:nowrap;font:15px courier;line-height:0">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</div>
+	</body>
+</html>
